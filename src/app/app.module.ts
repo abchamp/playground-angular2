@@ -7,6 +7,7 @@ import { AppComponent } from './app.component';
 import { HomeComponent } from './home/home.component';
 
 import { 
+    FooterComponent,
     HeaderComponent,
     SharedModule 
 } from './shared';
@@ -17,6 +18,7 @@ import { AppRoutingModule } from './app-routing.module';
 @NgModule({
   declarations: [ // for Component 
     AppComponent,
+    FooterComponent,
     HomeComponent,
     HeaderComponent
   ],

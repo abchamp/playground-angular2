@@ -9,7 +9,6 @@ export class AppComponent implements OnInit {
 	// constructor (
 	// 	private userService: UserService
 	// ) {}
-  title = 'app works!';
   ngOnInit() {
   	
   }
